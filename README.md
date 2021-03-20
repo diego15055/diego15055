@@ -5,13 +5,13 @@
 - I have been learnig more about Angular and Java :sparkling_heart:
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/diego-santos-3ab2a3156/" target="_blank">
+<a href="https://www.linkedin.com/in/diego-santos-3ab2a3156/" target="blank">
 <img align="center" alt="diego-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
 </a>
 
 ## My Skills
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" target="blank" alt="react" width="40" height="40" style="max-width:100%;"></img>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40" style="max-width:100%;"></img>
 
