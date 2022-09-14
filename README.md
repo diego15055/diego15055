@@ -1,8 +1,8 @@
 ### Hi there 👋
 ## I'm Diego Santos
 - I live in :brazil:
-- I have been working on {null} as fullstack developer :computer:
-- I have been learnig more about Angular and Java :sparkling_heart:
+- I have been working at IBM as frontend developer :computer:
+- I have experience with React and Angular :sparkling_heart:
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/diego-santos-3ab2a3156/" target="_blank">
