@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Diego Santos
 - I live in :brazil:
-- I have been working at IBM as frontend developer :computer:
+- I'm working at IBM as frontend developer :computer:
 - I have experience with React and Angular :sparkling_heart:
 
 ## Connect with me:
